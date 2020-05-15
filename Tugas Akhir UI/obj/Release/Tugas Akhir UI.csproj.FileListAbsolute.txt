@@ -1,0 +1,68 @@
+C:\Users\Ade\Desktop\Ulang\Tugas Akhir UI\bin\Release\DB.mdf
+C:\Users\Ade\Desktop\Ulang\Tugas Akhir UI\bin\Release\DB_log.ldf
+C:\Users\Ade\Desktop\Ulang\Tugas Akhir UI\bin\Release\Tugas Akhir UI.exe.config
+C:\Users\Ade\Desktop\Ulang\Tugas Akhir UI\bin\Release\Tugas Akhir UI.exe
+C:\Users\Ade\Desktop\Ulang\Tugas Akhir UI\bin\Release\Tugas Akhir UI.pdb
+C:\Users\Ade\Desktop\Ulang\Tugas Akhir UI\bin\Release\EntityFramework.dll
+C:\Users\Ade\Desktop\Ulang\Tugas Akhir UI\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Ade\Desktop\Ulang\Tugas Akhir UI\bin\Release\EntityFramework.xml
+C:\Users\Ade\Desktop\Ulang\Tugas Akhir UI\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Ade\Desktop\Ulang\Tugas Akhir UI\obj\Release\Tugas Akhir UI.csprojAssemblyReference.cache
+C:\Users\Ade\Desktop\Ulang\Tugas Akhir UI\obj\Release\Tugas_Akhir_UI.FormMain.resources
+C:\Users\Ade\Desktop\Ulang\Tugas Akhir UI\obj\Release\Tugas_Akhir_UI.FormRegister.resources
+C:\Users\Ade\Desktop\Ulang\Tugas Akhir UI\obj\Release\Tugas_Akhir_UI.Properties.Resources.resources
+C:\Users\Ade\Desktop\Ulang\Tugas Akhir UI\obj\Release\Tugas_Akhir_UI.UserControlCase1Fisik.resources
+C:\Users\Ade\Desktop\Ulang\Tugas Akhir UI\obj\Release\Tugas_Akhir_UI.UserControlCase1malam.resources
+C:\Users\Ade\Desktop\Ulang\Tugas Akhir UI\obj\Release\Tugas_Akhir_UI.UserControlCase1pagi.resources
+C:\Users\Ade\Desktop\Ulang\Tugas Akhir UI\obj\Release\Tugas_Akhir_UI.UserControlCase1siang.resources
+C:\Users\Ade\Desktop\Ulang\Tugas Akhir UI\obj\Release\Tugas_Akhir_UI.UserControlCase2fisik.resources
+C:\Users\Ade\Desktop\Ulang\Tugas Akhir UI\obj\Release\Tugas_Akhir_UI.UserControlCase2malam.resources
+C:\Users\Ade\Desktop\Ulang\Tugas Akhir UI\obj\Release\Tugas_Akhir_UI.UserControlCase2pagi.resources
+C:\Users\Ade\Desktop\Ulang\Tugas Akhir UI\obj\Release\Tugas_Akhir_UI.UserControlCase2siang.resources
+C:\Users\Ade\Desktop\Ulang\Tugas Akhir UI\obj\Release\Tugas_Akhir_UI.UserControlCase3fisik.resources
+C:\Users\Ade\Desktop\Ulang\Tugas Akhir UI\obj\Release\Tugas_Akhir_UI.UserControlCase3malam.resources
+C:\Users\Ade\Desktop\Ulang\Tugas Akhir UI\obj\Release\Tugas_Akhir_UI.UserControlCase3pagi.resources
+C:\Users\Ade\Desktop\Ulang\Tugas Akhir UI\obj\Release\Tugas_Akhir_UI.UserControlCase3siang.resources
+C:\Users\Ade\Desktop\Ulang\Tugas Akhir UI\obj\Release\Tugas_Akhir_UI.UserControlUserPria.resources
+C:\Users\Ade\Desktop\Ulang\Tugas Akhir UI\obj\Release\Tugas_Akhir_UI.UserControlUserWanita.resources
+C:\Users\Ade\Desktop\Ulang\Tugas Akhir UI\obj\Release\Tugas Akhir UI.csproj.GenerateResource.cache
+C:\Users\Ade\Desktop\Ulang\Tugas Akhir UI\obj\Release\Tugas Akhir UI.csproj.CoreCompileInputs.cache
+C:\Users\Ade\Desktop\Ulang\Tugas Akhir UI\obj\Release\Tugas Akhir UI.csproj.CopyComplete
+C:\Users\Ade\Desktop\Ulang\Tugas Akhir UI\obj\Release\Tugas Akhir UI.exe
+C:\Users\Ade\Desktop\Ulang\Tugas Akhir UI\obj\Release\Tugas Akhir UI.pdb
+C:\Kuliah\TETI\Semester 2\PBO\DietPal\Tugas Akhir UI\bin\Release\DB.mdf
+C:\Kuliah\TETI\Semester 2\PBO\DietPal\Tugas Akhir UI\bin\Release\DB_log.ldf
+C:\Kuliah\TETI\Semester 2\PBO\DietPal\Tugas Akhir UI\bin\Release\Tugas Akhir UI.exe.config
+C:\Kuliah\TETI\Semester 2\PBO\DietPal\Tugas Akhir UI\bin\Release\Tugas Akhir UI.exe
+C:\Kuliah\TETI\Semester 2\PBO\DietPal\Tugas Akhir UI\bin\Release\Tugas Akhir UI.pdb
+C:\Kuliah\TETI\Semester 2\PBO\DietPal\Tugas Akhir UI\bin\Release\EntityFramework.dll
+C:\Kuliah\TETI\Semester 2\PBO\DietPal\Tugas Akhir UI\bin\Release\EntityFramework.SqlServer.dll
+C:\Kuliah\TETI\Semester 2\PBO\DietPal\Tugas Akhir UI\bin\Release\EntityFramework.xml
+C:\Kuliah\TETI\Semester 2\PBO\DietPal\Tugas Akhir UI\bin\Release\EntityFramework.SqlServer.xml
+C:\Kuliah\TETI\Semester 2\PBO\DietPal\Tugas Akhir UI\obj\Release\Tugas Akhir UI.csprojAssemblyReference.cache
+C:\Kuliah\TETI\Semester 2\PBO\DietPal\Tugas Akhir UI\obj\Release\Tugas_Akhir_UI.FormMain.resources
+C:\Kuliah\TETI\Semester 2\PBO\DietPal\Tugas Akhir UI\obj\Release\Tugas_Akhir_UI.FormRegister.resources
+C:\Kuliah\TETI\Semester 2\PBO\DietPal\Tugas Akhir UI\obj\Release\Tugas_Akhir_UI.Properties.Resources.resources
+C:\Kuliah\TETI\Semester 2\PBO\DietPal\Tugas Akhir UI\obj\Release\Tugas_Akhir_UI.UserControlCase1Fisik.resources
+C:\Kuliah\TETI\Semester 2\PBO\DietPal\Tugas Akhir UI\obj\Release\Tugas_Akhir_UI.UserControlCase1malam.resources
+C:\Kuliah\TETI\Semester 2\PBO\DietPal\Tugas Akhir UI\obj\Release\Tugas_Akhir_UI.UserControlCase1pagi.resources
+C:\Kuliah\TETI\Semester 2\PBO\DietPal\Tugas Akhir UI\obj\Release\Tugas_Akhir_UI.UserControlCase1siang.resources
+C:\Kuliah\TETI\Semester 2\PBO\DietPal\Tugas Akhir UI\obj\Release\Tugas_Akhir_UI.UserControlCase2fisik.resources
+C:\Kuliah\TETI\Semester 2\PBO\DietPal\Tugas Akhir UI\obj\Release\Tugas_Akhir_UI.UserControlCase2malam.resources
+C:\Kuliah\TETI\Semester 2\PBO\DietPal\Tugas Akhir UI\obj\Release\Tugas_Akhir_UI.UserControlCase2pagi.resources
+C:\Kuliah\TETI\Semester 2\PBO\DietPal\Tugas Akhir UI\obj\Release\Tugas_Akhir_UI.UserControlCase2siang.resources
+C:\Kuliah\TETI\Semester 2\PBO\DietPal\Tugas Akhir UI\obj\Release\Tugas_Akhir_UI.UserControlCase3fisik.resources
+C:\Kuliah\TETI\Semester 2\PBO\DietPal\Tugas Akhir UI\obj\Release\Tugas_Akhir_UI.UserControlCase3malam.resources
+C:\Kuliah\TETI\Semester 2\PBO\DietPal\Tugas Akhir UI\obj\Release\Tugas_Akhir_UI.UserControlCase3pagi.resources
+C:\Kuliah\TETI\Semester 2\PBO\DietPal\Tugas Akhir UI\obj\Release\Tugas_Akhir_UI.UserControlCase3siang.resources
+C:\Kuliah\TETI\Semester 2\PBO\DietPal\Tugas Akhir UI\obj\Release\Tugas_Akhir_UI.UserControlUserPria.resources
+C:\Kuliah\TETI\Semester 2\PBO\DietPal\Tugas Akhir UI\obj\Release\Tugas_Akhir_UI.UserControlUserWanita.resources
+C:\Kuliah\TETI\Semester 2\PBO\DietPal\Tugas Akhir UI\obj\Release\Tugas Akhir UI.csproj.GenerateResource.cache
+C:\Kuliah\TETI\Semester 2\PBO\DietPal\Tugas Akhir UI\obj\Release\Tugas Akhir UI.csproj.CoreCompileInputs.cache
+C:\Kuliah\TETI\Semester 2\PBO\DietPal\Tugas Akhir UI\obj\Release\Tugas Akhir UI.csproj.CopyComplete
+C:\Kuliah\TETI\Semester 2\PBO\DietPal\Tugas Akhir UI\obj\Release\Tugas Akhir UI.exe
+C:\Kuliah\TETI\Semester 2\PBO\DietPal\Tugas Akhir UI\obj\Release\Tugas Akhir UI.pdb
+C:\Kuliah\TETI\Semester 2\PBO\DietPal\Tugas Akhir UI\bin\Release\Tugas Akhir UI.exe.manifest
+C:\Kuliah\TETI\Semester 2\PBO\DietPal\Tugas Akhir UI\bin\Release\Tugas Akhir UI.application
+C:\Kuliah\TETI\Semester 2\PBO\DietPal\Tugas Akhir UI\obj\Release\Tugas Akhir UI.exe.manifest
+C:\Kuliah\TETI\Semester 2\PBO\DietPal\Tugas Akhir UI\obj\Release\Tugas Akhir UI.application

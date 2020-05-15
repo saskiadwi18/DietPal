@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Tugas Akhir UI.exe" version="1.0.0.0" publicKeyToken="342fdc1be211c641" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Tugas Akhir UI" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Tugas Akhir UI.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="EntityFramework.dll" size="5225168">
+      <assemblyIdentity name="EntityFramework" version="6.0.0.0" publicKeyToken="B77A5C561934E089" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>nCD7KthqdgsMauvZMByQCYkdAq4UcgqTkmwLU1uK0Js=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="EntityFramework.SqlServer.dll" size="622288">
+      <assemblyIdentity name="EntityFramework.SqlServer" version="6.0.0.0" publicKeyToken="B77A5C561934E089" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>4OEmw7inupUB0D+Z1Upcu9F0vOy2FwCYq0zBIZ8n+TM=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Tugas Akhir UI.exe" size="11105240">
+      <assemblyIdentity name="Tugas Akhir UI" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>cUmcl6KdpyvJYlqxu6RsA5XsZiFYkD1i6pH5vsgGLQg=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="DB.mdf" size="8388608" writeableType="applicationData">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>6f/JnJxmO+pedxYNLOYdQfEV7eOqIlnoIqv/HlGC0vk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="DB_log.ldf" size="8388608" writeableType="applicationData">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>NBMf3szf4ZGT52FaFuwS3Bb78WYy0sNXRbFsD5mYxoo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Tugas Akhir UI.exe.config" size="1300">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>rLDotcM9rgtJLGOGO/t7nVRQzcgeq/Iv9HDLVPLAwoc=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=LAPTOP-SMAIQ241\Ade" issuerKeyHash="a33dd355be8ccf79aaa90185960540155b76618c" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>pQHTjERGHJ+C4cSsRVHCNfC7X7tbzQX2KTwIzgqfTQI=</DigestValue></Reference></SignedInfo><SignatureValue>qDSp0yVSTXSNDH6xqSV1cOvbjrMv22fRQU20KilWhkZzUbnm2ORiGLzNYBaiCzSeEcUnkmginPDPJE8mnAAtTfOt2n6wpuuhBjMxivWm09kseNEIQn9oRwnUnyzppUA1sddSgXYXslA3zBlLQeXIOrOqyDW/kX5ak4vvkq/xNRs=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>09QbtZL6+YNFAOAMJpDsitOUnhXa2h8bthB74m5bTQU3uv/2gNoP3FKicDjdFZyiY5ASHOtLVxOTc2Sr0XBehioWuQJGeEr6miAVZ2o5GOVh2Aa+5GRSas6ypCPVuB/0T2EtthORjNuBlO+HNRWf6/LtksWPYsVTrtgjsHfyjHk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="024d9f0ace083c29f605cd5bbb5fbbf035c25145acc4e1829f1c46448cd301a5" Description="" Url=""><as:assemblyIdentity name="Tugas Akhir UI.exe" version="1.0.0.0" publicKeyToken="342fdc1be211c641" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=LAPTOP-SMAIQ241\Ade</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>n4HZsg4rglYURcxD0XYR5LkGBBMZBmPDfXGVIjLSpoc=</DigestValue></Reference></SignedInfo><SignatureValue>Nwvj3G7dKnA/F5tSiC7F+66jbTiAVNv7724kgzI4W2kzt13FMmdQ0s4SVegvbjm6cgbX04BVgMfq+8fbWJWAQfVEg2Ix3nL833Fn8yjXHtgqW1Ccjs2PowN5L+hOddGwfRVNXvwKZmdXqT7lK/BhhAG2+efJxPQ7b0uyrygY/3M=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>09QbtZL6+YNFAOAMJpDsitOUnhXa2h8bthB74m5bTQU3uv/2gNoP3FKicDjdFZyiY5ASHOtLVxOTc2Sr0XBehioWuQJGeEr6miAVZ2o5GOVh2Aa+5GRSas6ypCPVuB/0T2EtthORjNuBlO+HNRWf6/LtksWPYsVTrtgjsHfyjHk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB5TCCAU6gAwIBAgIQbfSgc9k2UrdFQ2PUc9NgTjANBgkqhkiG9w0BAQsFADAxMS8wLQYDVQQDHiYATABBAFAAVABPAFAALQBTAE0AQQBJAFEAMgA0ADEAXABBAGQAZTAeFw0yMDA1MTUwMzIwNDhaFw0yMTA1MTUwOTIwNDhaMDExLzAtBgNVBAMeJgBMAEEAUABUAE8AUAAtAFMATQBBAEkAUQAyADQAMQBcAEEAZABlMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDT1Bu1kvr5g0UA4AwmkOyK05SeFdraHxu2EHvibltNBTe6//aA2g/cUqJwON0VnKJjkBIc60tXE5NzZKvRcF6GKha5AkZ4SvqaIBVnajkY5WHYBr7kZFJqzrKkI9W4H/RPYS22E5GM24GU74c1FZ/r8u2SxY9ixVOu2COwd/KMeQIDAQABMA0GCSqGSIb3DQEBCwUAA4GBAFpaKVlfF1bw2mtFyXH9x0ny9xDqk1rnhZ/ezHxImxUY6w6QA0MhJBVaXk9nhCnpATaqTWD0maVJkRHJSrFiOs9mbeJixc0Kb8jdfOacdqFF57QTlanqDqQHTXWAOQgD7teYUEbxh/jRYUDOzggmPcCgfNrx8rs0+aInX1adiFqK</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
