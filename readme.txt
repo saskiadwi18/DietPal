@@ -10,6 +10,8 @@ Anggota kelompok dan peran dalam projek
 	- Melakukan debugging.
 
 2.	Saskia Dwi Ulfah	19/439822/TK/48552
+	- Brainstorming idea. 
 	- Membuat code perhitungan BMI.
+	- Membuat rancangan Windows Form Application BMI page.
 
 3.		
